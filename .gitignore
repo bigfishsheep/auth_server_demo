@@ -1,0 +1,9 @@
+*.pyc
+.idea/
+__pycache__/
+build/
+dist/
+instance/
+migrations/
+venv/
+flask.log
